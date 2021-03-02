@@ -70,7 +70,7 @@ See [`contributing.md`][contributing] on how to contribute.
 
 [author]: https://wooorm.com
 
-[coc]: https://github.com/get-alex/.github/blob/master/code-of-conduct.md
+[coc]: https://github.com/get-alex/.github/blob/main/code-of-conduct.md
 
 [issues]: https://github.com/get-alex/alex/issues
 
