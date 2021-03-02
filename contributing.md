@@ -149,7 +149,7 @@ See [`support.md`][support] on how to get help.
 
 [author]: https://wooorm.com
 
-[coc]: https://github.com/get-alex/.github/blob/master/code-of-conduct.md
+[coc]: https://github.com/get-alex/.github/blob/main/code-of-conduct.md
 
 [unit-test]: https://twitter.com/sindresorhus/status/579306280495357953
 
