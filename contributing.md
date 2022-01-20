@@ -98,7 +98,8 @@ built to the [`dest`][dest-folder] folder.
 ### Adding profanities and other words
 
 If you have profanities, insensitive words, and/or any other additions to add
-to our repository, you’ll need to make a PR to [`cuss`][cuss].
+to our repository, you’ll need to make a PR to either [`cuss`][cuss] or
+[`retext-equality`][equality].
 The words will automatically be added into [`retext-profanities`][profanities]
 and alex as well.
 
